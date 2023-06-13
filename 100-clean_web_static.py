@@ -6,7 +6,7 @@
 import os
 from fabric.api import *
 
-env.hosts = ["3.235.239.225", "35.170.64.18"]
+env.hosts = ["54.209.183.230", "34.203.75.80"]
 env.user = 'ubuntu'
 env.identinty = '~/.ssh/school'
 
